@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-public static class LINQExtensions
+public static class QueryExtensions
 {
 
     // TODO: Using orderby is too slow, need to find the number manually with an iterator
